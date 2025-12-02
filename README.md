@@ -1,2 +1,0 @@
-# Panel-admin
-Dulceria edma
